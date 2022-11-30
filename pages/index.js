@@ -58,8 +58,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <p>Muhammad Imron 2022 </p>  
+          Powered by{'Muhammad Imron'}
           <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
