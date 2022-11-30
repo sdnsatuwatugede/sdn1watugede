@@ -12,9 +12,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h3 className={styles.title}>
+        <h5 className={styles.title}>
           Welcome to <a href="https://wtg.nasihosting.com">Cek di sini</a>
-        </h3>
+        </h5>
 
         <p className={styles.description}>
           Get started by editing{' '}
