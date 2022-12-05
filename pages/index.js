@@ -17,8 +17,8 @@ export default function Home() {
         </h5>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+           Bio Link {' '}
+          <code className={styles.code}>OPS SDN 1 WATUGEDE</code>
         </p>
 
         <div className={styles.grid}>
@@ -27,13 +27,13 @@ export default function Home() {
             <p>SKP di sini <a href="https://docs.google.com/spreadsheets/d/1Ri-cBJCrNMYeeYXbPLFVlYve1YkY5mfI/edit?usp=sharing&ouid=114749342650366024498&rtpof=true&sd=true">Cek di sini</a> </p>
           </a>
 
-          <a href="#" className={styles.card}>
+          <a href="https://docs.google.com/spreadsheets/d/1DwYU52pLbawZLfX4xA-q1aLKjGnFGu0E/edit?usp=sharing&ouid=114749342650366024498&rtpof=true&sd=true" className={styles.card}>
             <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>SKP DWI AGUSTIN</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="#"
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
@@ -41,7 +41,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="#"
             className={styles.card}
           >
             <h2>Deploy &rarr;</h2>
