@@ -28,8 +28,8 @@ export default function Home() {
           </a>
 
           <a href="https://docs.google.com/spreadsheets/d/1DwYU52pLbawZLfX4xA-q1aLKjGnFGu0E/edit?usp=sharing&ouid=114749342650366024498&rtpof=true&sd=true" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>SKP DWI AGUSTIN</p>
+            <h2>SKP DWI AGUSTIN &rarr;</h2>
+            <p>Cek Disini</p>
           </a>
 
           <a
