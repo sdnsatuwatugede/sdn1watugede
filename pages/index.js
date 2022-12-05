@@ -23,8 +23,8 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h2>SKP UMI WAHYUNI &rarr;</h2>
+            <a href="https://docs.google.com/spreadsheets/d/1Ri-cBJCrNMYeeYXbPLFVlYve1YkY5mfI/edit?usp=sharing&ouid=114749342650366024498&rtpof=true&sd=true">Cek di sini</a>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
